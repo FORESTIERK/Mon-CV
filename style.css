@@ -1,6 +1,7 @@
 body {
 	background-image: url("http://cdn.wallpapersafari.com/1/39/3EuPIz.jpg");
 	background-attachment: fixed;
+	background-size: cover;
 	font-family: Courier New;
 	text-shadow: 2px 2px 2px blue;
 	color: aqua;
