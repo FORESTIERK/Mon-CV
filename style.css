@@ -7,17 +7,20 @@ body {
 }
 .presentation{
 	text-align: center;
+	background-attachment: fixed;
 	font-size: 20px;
 	border: 1px groove;
 }
 .infopresentation{
 	position: fixed;
+	background-attachment: fixed;
 	top: 100px;
-	left: 10px;
+	left: 170px;
 	font-size: 16px;
 }
 .qualite{
 	position: fixed;
+	background-attachment: fixed;
 	font-size: 18px;
 	right: 20px;
 	top: 160px;
@@ -30,19 +33,71 @@ body {
 }
 .vehicule{
 	position: fixed;
+	background-attachment: fixed;
 	font-size: 18px;
 	right: 60px;
 	top: 260px;
 }
 .loisir{
 	position: fixed;
-	font-size: 20px;
+	background-attachment: fixed;
+	font-size: 25px;
 	right: 280px;
-	top: 720px;
+	top: 700px;
 }
 .experience{
 	position: fixed;
+	background-attachment: fixed;
 	font-size: 15px;
 	left: 5px;
 	top: 720px;
+}
+.photoprofil{
+	position: fixed;
+	background-attachment: fixed;
+	width: 150px;
+	left: 10px;
+	top: 120px;
+	float: left;
+	border: 4px aqua inset;
+}
+.moto1{
+	position: fixed;
+	background-attachment: fixed;
+	width: 150px;
+	left: 615px;
+	top: 2px;
+	float: left;
+}
+.moto2{
+	position: fixed;
+	background-attachment: fixed;
+	width: 150px;
+	right: 615px;
+	top: 2px;
+	float: right;
+}
+.motologo{
+	position: fixed;
+	background-attachment: fixed;
+	width: 40px;
+	right: 320px;
+	bottom: 160px;
+	float: right;
+}
+.jeuxlogo{
+	position: fixed;
+	background-attachment: fixed;
+	width: 40px;
+	right: 230px;
+	bottom: 125px;
+	float: right;
+}
+.airsoftlogo{
+	position: fixed;
+	background-attachment: fixed;
+	width: 80px;
+	right: 240px;
+	bottom: 100px;
+	float: right;
 }
